@@ -1,3 +1,11 @@
+## About This Fork
+This repository is a **fork** of the original Flutter Dating Web Application frontend, developed as part of a collaborative group project. While my primary focus was backend development, I contributed to frontend elements where needed, assisting with integration and troubleshooting. This fork exists to showcase my involvement in the project while maintaining proper credit to the original team.
+
+### My Contributions
+- Provided support and troubleshooting for frontend components.
+- Assisted with authentication and connectivity between frontend and backend.
+- Worked with the team to refine UI functionality and user experience.
+
 # Flutter App
 
 # Overview
